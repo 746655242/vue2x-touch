@@ -1,8 +1,8 @@
 {
-  "name": "vue2x-tocuh",
-  "version": "1.0.1",
+  "name": "vue2x-touch",
+  "version": "1.0.3",
   "description": "Touch events plugin for Vue.js.",
-  "main": "vue2x-touch.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
