@@ -1,0 +1,21 @@
+{
+  "name": "vue2x-tocuh",
+  "version": "1.0.0",
+  "description": "Touch events plugin for Vue.js.",
+  "main": "vue2x-touch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/746655242"
+  },
+  "keywords": [
+    "vue2x-tocuh"
+  ],
+  "author": "746655242@qq.com",
+  "license": "ISC"
+}
