@@ -27,8 +27,7 @@ Vue.use(Vue2Touch)
 ```
 
 
-### callback
-Callback is a name of function with two args(can use any name, but type must be a funciton);the first argument can return a touch type(swipeleft,tap ...), and the second argument can return a callback event.
+
 
 ## More Details
 See [Hammer.js document](http://hammerjs.github.io/)
