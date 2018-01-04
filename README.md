@@ -36,7 +36,20 @@ callback(e,el,data){
 
 ```
 
+#### Registering Custom Events
 
+``` js
+// example registering a custom doubletap event.
+// the `type` indicates the base recognizer to use from Hammer
+// all other options are Hammer recognizer options.
+VueTouch.registerCustomEvent('doubletap', {
+  type: 'tap',
+  taps: 2
+})
+```
+``` html
+<a v-touch:doubletap="onDoubleTap"></a>
+```
 
 
 ## More Details
